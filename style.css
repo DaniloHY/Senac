@@ -1,0 +1,36 @@
+
+@media (max-width: 800px) {
+    body{
+        background-color: aqua !important;
+    }
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
+
+h1{
+    font-weight: 200;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(2, 0, 112);
+}
+
+div{
+    background-color: chocolate;
+}
+
+li{
+    font-size: larger;
+}
+
+body{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    background-color: #646262;
+}
+a{
+    font-size: 20px;
+}
