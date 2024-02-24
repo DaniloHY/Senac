@@ -1,0 +1,65 @@
+body {
+    background: gray;
+}
+
+img {
+    float: left;
+    padding: 3px;
+}
+
+div {
+    /*Limpa*/
+    clear: both;
+    background: rgb(212, 29, 59);
+    height: 50px;
+    max-width: 250px;
+    border: 1px solid rgb(129, 2, 23);
+}
+span {
+    padding-top: 10px;
+    padding-left: 5px;
+    display: inline-block;
+}
+
+a {
+    color: black;
+} 
+
+a:hover {
+    color: rgb(13, 228, 5);
+    font-weight: bold;
+    transition: all 1.2s;
+}
+.home  {
+    /*Limpa*/
+    clear: both;
+    background: rgb(228, 74, 3);
+    height: 50px;
+    max-width: 250px;
+    border: 1px solid rgb(228, 74, 3);
+}
+.serv{
+    clear: both;
+    background: rgb(236, 195, 9);
+    height: 50px;
+    max-width: 250px;
+    border: 1px solid rgb(236, 195, 9);
+}
+.port{
+    clear: both;
+    background: rgb(2, 135, 212);
+    height: 50px;
+    max-width: 250px;
+    border: 1px solid rgb(2, 135, 212);
+}
+.blog{
+    clear: both;
+    background: rgb(50, 53, 253);
+    height: 50px;
+    max-width: 250px;
+    border: 1px solid rgb(50, 53, 253);
+}
+
+
+
+
