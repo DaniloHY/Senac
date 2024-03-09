@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(184, 184, 184);
+}
+
+#main{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+.primeTr{
+    font-size: 20px;
+    background: rgb(51, 51, 233);
+    color: white;
+}
+
+.secondTr{
+    text-align: center;
+    background: rgb(3, 3, 121);
+    color: white;
+}
+
+.finalTr{
+    background: rgb(12, 12, 83);
+    color: white;
+    text-align: center;
+}
+
+#segunda{
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.prime{
+    font-size: 20px;
+    background: rgb(199, 199, 199);
+    color: black;
+}
+
+.second{
+    text-align: center;
+    background: rgb(199, 199, 199);
+    color: black;
+}
+
+.terc{
+    background: rgb(199, 199, 199);
+    color: black;
+    text-align: center;
+}
+.quar{
+    text-align: center;
+    background: rgb(199, 199, 199);
+    color: black;
+}
+
+.quin{
+    text-align: center;
+    background: rgb(199, 199, 199);
+    color: black;
+}
+
+.sex{
+    background: rgb(199, 199, 199);
+    color: black;
+    text-align: center;
+}
+
+.set{
+    background:rgb(199, 199, 199);
+    color: black;
+    text-align: center;
+}
+
+button{
+    width: 130px;
+    height: 25px;
+    background-color: rgb(3, 3, 121);
+    color: white;
+}
+
+.basico{
+    background-color: rgb(106, 170, 253);
+}
+
+.padrao{
+    background-color: rgb(44, 135, 253);
+}
+
+.avancado{
+    background-color: rgb(17, 120, 255);
+}
+
+.bas_but{
+    background-color: rgb(106, 170, 253);
+}
+
+.pad_but{
+    background-color: rgb(44, 135, 253);
+}
+
+.ava_but{
+    background-color: rgb(17, 120, 255);
+}
