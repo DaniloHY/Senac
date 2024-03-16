@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(163, 163, 163);
+}
+
+.container{
+    padding: 20px;
+}
+
+.form-control{
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+label{
+    font-weight: bold;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.form-control input[type="text"],
+.form-control input[type="tel"],
+.form-control input[type="password"],
+textarea {
+    border: 2px solid rgb(56, 56, 243);
+    padding: 5px;
+    outline: none;
+}
+
+button {
+    padding: 15px;
+    background: black;
+    color: white;
+    border: 0;
+    cursor: pointer;
+}
