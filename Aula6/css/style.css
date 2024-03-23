@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(143, 143, 143);
+    color: rgb(0, 4, 216);
+}
+
+.form-control{
+    margin: 20px;
+}
+
+.form-control label{
+    font-weight: bold;
+}
+
+.enviar{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: 0;
+}
+
+.limpar{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: 0;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="number"],
+input[type="time"],
+select{
+    height: 25px;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
